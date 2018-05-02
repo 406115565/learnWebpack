@@ -18,7 +18,7 @@
         methods: {
 
             test() {
-                this.$parent.$emit('haha', 'huchuan')
+                this.$parent.$emit('haha', 'hahahahah')
             }
         }
     }
